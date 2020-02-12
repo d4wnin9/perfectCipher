@@ -2,6 +2,7 @@
 
 import random
 import sys
+import struct
 
 def encrypt(filename):
     random.seed(seed)
